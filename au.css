@@ -1,0 +1,123 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Josefin Sans",sans-serif;
+}
+.about{
+text-align: center;
+
+height: 100vh;
+
+justify-content: center;
+align-items: center;
+}
+.aboutus{
+    margin-left: 200px;
+    margin-right: 100px;
+    margin-top: 100px;
+}
+.about img{
+    width: 200px;
+    height: 150px;
+    position: absolute;
+    left:0;
+    top:100px;
+}
+.aboutus h2{
+    color: rgb(37, 25, 173);
+}
+.abt{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.us{
+    font-size: 60px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px;
+    border-style: solid;
+    background-color: rgb(50, 2, 91);
+    color: aliceblue;
+}
+blockquote {
+    border:none;
+    font-family:Georgia, "Times New Roman", Times, serif;
+    
+    }
+    blockquote h3:before { 
+        content: open-quote;
+        font-weight: bold;
+        font-size:60px;
+        color:rgb(50, 2, 91);
+    } 
+    blockquote h3:after { 
+        content: close-quote;
+        font-weight: bold;
+        font-size:60px;
+        color:rgb(50, 2, 91);
+    }
+    .aboutus p{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 17px;
+        margin-bottom: 15px;
+    }
+    .space{
+        margin-bottom: 70px;
+    }
+    .our{
+        font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 260px;
+    }
+    .vision{
+        font-size: 45px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px;
+    border-style: solid;
+    background-color: rgb(50, 2, 91);
+    color: aliceblue;
+    }
+    .about h3{
+        margin-top: 1.5cm;
+        font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+        font-size: 25px;
+        margin-bottom: 1.5cm;
+    }
+    .food{
+        font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 260px;
+    }
+    .safety{
+        font-size: 45px;
+        font-family: Arial, Helvetica, sans-serif;
+        border: 1px;
+        border-style: solid;
+        background-color: rgb(50, 2, 91);
+        color: aliceblue;
+    }
+    .v{
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-size: 25px;
+        margin-top: 1.5cm;
+        margin-bottom: 1.5cm;
+    }
+    .list{
+        margin-top: 1.5cm;
+        font-size: 20px;
+        margin-left: 200px;
+        margin-right: 250px;
+        margin-bottom: 1.5cm;
+        
+    }
+    .list li{
+        margin-top: 20px;
+    }
+    .mission{
+        border: 1px;
+        border-style: solid;
+       margin-left: 20px;
+       /* margin-right: 900px; */
+    }
+    .mission h4{
+        font-size: 20px;
+    }
